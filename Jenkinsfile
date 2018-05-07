@@ -1,5 +1,5 @@
-node {
-    agent { docker { image 'maven:3.3.3' } }
+pipeline {
+    agent any
     stages {
         stage('Initialize') {
             steps {
