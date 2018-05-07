@@ -1,17 +1,12 @@
 pipeline {
     agent any
+    tools {
+        maven 'apache-maven-3.3.9'
+    }
     stages {
-        stage('Initialize') {
+        stage('Build') {
             steps {
-                sh '''
-                    echo "PATH = ${PATH}"
-                    echo "M2_HOME = ${M2_HOME}"
-                '''
-            }
-        }
-        stage('build') {
-            steps {
-                sh 'mvn clean deploy'
+                sh 'mvn clean package'
             }
         }
     }
