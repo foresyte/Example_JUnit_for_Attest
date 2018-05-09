@@ -1,6 +1,7 @@
 node {
-    agent any
+    checkout scm
 
-    sh 'echo hello world'
-
+    stage('Build') {
+          echo 'This is a minimal pipeline.'
+    }
 }
