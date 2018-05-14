@@ -5,7 +5,7 @@ node {
           echo 'This is a minimal pipeline.'
           sh "mvn -e clean compile -DskipTests"
 
-         
+       
 
     }
 
