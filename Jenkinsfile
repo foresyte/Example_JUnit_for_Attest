@@ -3,7 +3,8 @@ node {
 
     stage('Build') {
           echo 'This is a minimal pipeline.'
-          sh "mvn clean compile -DskipTests"
+          sh "mvn -e clean compile -DskipTests"
+
 
     }
 
