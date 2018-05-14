@@ -40,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -447,7 +447,7 @@
       <workItem from="1525373926229" duration="706000" />
       <workItem from="1525722043439" duration="4974000" />
       <workItem from="1525897605137" duration="1502000" />
-      <workItem from="1526051864719" duration="2035000" />
+      <workItem from="1526051864719" duration="2268000" />
     </task>
     <servers />
   </component>
@@ -484,7 +484,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68917000" />
+    <option name="totallyTimeSpent" value="69150000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -995,7 +995,7 @@
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding />
         </state>
       </provider>
